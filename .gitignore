@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore Terraform state files
+*.tfstate
+
+# Add any other patterns you want to ignore
